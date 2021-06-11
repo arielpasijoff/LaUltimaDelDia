@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sfsfsfsd
 sfs
+=======
+sfsf
+EOOOO
+>>>>>>> 9501ced546066f68850471b249b0912811ccfc28
